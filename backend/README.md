@@ -29,7 +29,7 @@ This is the backend directory for the Pray5 project.
 
 ## API Specification
 
-### `GET /search`
+### `GET /search_mosques`
 
 - Query Parameters:
   - `q`: The search query
